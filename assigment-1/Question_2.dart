@@ -1,3 +1,4 @@
+/*---------------SMIT FLUTTER ----------------*/
 void main() {
 //Take two variables and store age then using if/else condition to determine oldest
 //and youngest among them

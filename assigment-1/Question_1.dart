@@ -1,3 +1,4 @@
+/*---------------SMIT FLUTTER ----------------*/
 void main() {
 //Create two integer variables length and breadth
 //and assign values then check if they are square values or rectangle values.ie:

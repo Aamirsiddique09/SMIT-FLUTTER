@@ -1,3 +1,4 @@
+/*---------------SMIT FLUTTER ----------------*/
 void main() {
 //Write a program to check whether an alphabet is a vowel or consonant?
 

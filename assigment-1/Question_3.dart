@@ -1,3 +1,4 @@
+/*---------------SMIT FLUTTER ----------------*/
 void main() {
 //A student will not be allowed to sit in exam if his/her attendance is less than 75%.
 //Create integer variables and assign value:

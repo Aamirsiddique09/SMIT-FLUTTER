@@ -1,3 +1,4 @@
+/*---------------SMIT FLUTTER ----------------*/
 void main() {
 //Write a program to calculate and print the Electricity bill of a given customer.
 //Create variable for customer id, name, unit consumed by the user,

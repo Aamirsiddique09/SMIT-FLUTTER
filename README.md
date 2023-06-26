@@ -25,7 +25,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/smit-flutter-project.git
+git clone https://github.com/Aamirsiddique09/smit-flutter-project.git
 Ensure you have Flutter and Dart SDK installed. If not, refer to the Flutter installation guide for your specific operating system.
 
 Navigate to the project directory:
